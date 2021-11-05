@@ -6,6 +6,18 @@
   font-size: 4rem;
   padding-top: 6rem;
 }
-.col-2{
-    border: none;
+.col-2 {
+  border: none;
+}
+.w-10 {
+  width: 12%;
+}
+.mt-10 {
+  margin-top: 6rem;
+}
+.mb-10{
+  margin-bottom: 6rem;
+}
+.hov:hover{
+text-decoration: underline;
 }
